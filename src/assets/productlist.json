@@ -1,0 +1,36 @@
+{
+    "Electornics" :
+                    [{
+                        "ProductName":"TV",
+                        "ProductCode":"TV",
+                        "ProductDescription":"LCD with 22'",
+                        "Price":"7K"
+                    },
+                    {
+                        "ProductName":"Food Processor",
+                        "ProductCode":"FP",
+                        "ProductDescription":"",
+                        "Price":"5K"
+                    },
+                    {
+                        "ProductName":"Iron",
+                        "ProductCode":"IP",
+                        "ProductDescription":"",
+                        "Price":"2K"
+                    }],
+     "Mens"  :
+                    [{
+                        "ProductName":"Formal Shirts",
+                        "ProductCode":"FS",
+                        "ProductDescription":"Men's Formal shirts",
+                        "Price":"2K"
+                    },
+                    {
+                        "ProductName":"T-shirts",
+                        "ProductCode":"TS",
+                        "ProductDescription":"Color and without color tshirts",
+                        "Price":"2K"
+                    }
+
+     ]           
+}
